@@ -1,1 +1,1 @@
-This repository contains all my poorly made projects from the past, before I started my degree program in University of Manchester
+This repository contains all my Data Science project I did before I started my first year in University of Manchester and some personal projects I did during my study.
